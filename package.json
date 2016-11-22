@@ -1,0 +1,17 @@
+{
+  "name": "language-liggghts",
+  "version": "0.0.0",
+  "description": "LIGGGHTS syntax support in Atom",
+  "engines": {
+    "atom": "*"
+  },
+  "dependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/msbentley/language-liggghts.git"
+  },
+  "bugs": {
+    "url": "https://github.com/msbentley/language-liggghts/issues"
+  },
+  "license": "MIT"
+}

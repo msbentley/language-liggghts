@@ -1,0 +1,17 @@
+'scopeName': 'source.liggghts'
+'name': 'LIGGGHTS'
+'fileTypes': ['in']
+
+'patterns': [
+    {
+        # First rule
+    },
+ 
+   {
+        # Second rule
+    },
+
+    {
+        # Last rule
+    }
+]
